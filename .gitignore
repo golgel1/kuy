@@ -1,0 +1,11 @@
+# File Database
+media.json
+groups.json
+config.json
+users.json
+
+
+*.log
+
+
+.env
